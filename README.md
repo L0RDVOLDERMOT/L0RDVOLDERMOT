@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Chibuikeojukwu07@gmail.com)
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E3261F?style=flat-square&logo=comptia&logoColor=white)
-![CEH](https://img.shields.io/badge/EC--Council-CEH-005A8E?style=flat-square)
+
 ![CySA+ In Progress](https://img.shields.io/badge/CompTIA-CySA%2B%20In%20Progress-FF6B00?style=flat-square&logo=comptia&logoColor=white)
 ![Open To Work](https://img.shields.io/badge/Status-Open%20To%20Work-28A745?style=flat-square)
 
